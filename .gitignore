@@ -2,9 +2,12 @@
 
 # dependencies
 node_modules/
+android/
+ios/
 
 # Expo
 .expo/
+.expo-shared/
 dist/
 web-build/
 expo-env.d.ts
